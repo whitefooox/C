@@ -1,0 +1,2 @@
+101 C:\Users\dasew\Desktop\Homework\C++\2.2\lab4\build\Color.dll
+102 C:\Users\dasew\Desktop\Homework\C++\2.2\lab4\build\ColorReverse.dll
